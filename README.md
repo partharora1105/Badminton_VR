@@ -17,3 +17,7 @@ A Virtual Reality Application for playing badminton with an intelligent opponent
 	<li>Click on Build and Run</li>
 </ul>
 <h2>Media</h2>
+<p align="center">
+  <img src="www.projects.bet/Media/github/Badminton/vid1.mp4">
+  <br>Demo Video
+</p>
