@@ -18,6 +18,6 @@ A Virtual Reality Application for playing badminton with an intelligent opponent
 </ul>
 <h2>Media</h2>
 <p align="center">
-  <img src="www.projects.bet/Media/github/Badminton/vid1.mp4">
+  <img src="/github/1.gif">
   <br>Demo Video
 </p>
